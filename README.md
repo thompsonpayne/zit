@@ -1,7 +1,8 @@
 Me learning zig 0.15.2
 
 <h1>Prerequisite</h1>
-<span>zig 0.15.2</span>
+<p>zig 0.15.2</p>
+<p>Branch: master</p>
 
 <h1>Basic usage</h1>
 Init a repo
