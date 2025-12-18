@@ -23,4 +23,4 @@ zig run build -- commit -m "commit message"
 <h1></h1>
 <p>Stage files did apply multithread for faster hashing and blobs writing.
 </p>
-<p>Very barebone but still progress for zig journey. </p>
+<p>Very barebone but still progress on zig journey. </p>
